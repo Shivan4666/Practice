@@ -1,0 +1,91 @@
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  height: 36px;
+  line-height: 36px;
+  background-color: #000;
+  font-size: 13px;
+}
+li {
+  float: left;
+  border-right: 1px solid #156ee2;
+  color: white;
+  width: 230px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.listname {
+  display: block;
+  padding: 0 28px;
+  color: #fff;
+  text-decoration: none;
+}
+.listname:hover,
+.active .listname {
+  background-color: #156ee2;
+}
+.part {
+  width: 350px;
+  height: 300px;
+  background-color: bisque;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.part1,
+.part3,
+.part5 {
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+.head2 {
+  padding-top: 25px;
+}
+
+.part3 {
+  margin-left: 846px;
+  margin-top: -637px;
+}
+.part4 {
+  margin-left: 846px;
+}
+.part5 {
+  margin-left: 438px;
+  margin-top: -483px;
+}
+footer {
+  background-color: black;
+  height: 69px;
+}
+.foot {
+  color: white;
+  margin-top: 192px;
+}
+.para {
+  text-align: left;
+  font-size: 15px;
+  padding: 20px;
+}
+.imagee {
+  width: 50px;
+  height: 50px;
+  margin-top: -35px;
+  margin-left: 255px;
+}
+.imagee3 {
+  width: 50px;
+  height: 50px;
+  margin-top: -14px;
+  margin-left: 261px;
+}
+.imagee5 {
+  width: 50px;
+  height: 50px;
+  margin-top: -14px;
+  margin-left: 261px;
+}
+.footertxt1 {
+  color: white;
+  font-size: 15px;
+  padding: 10px;
+}
